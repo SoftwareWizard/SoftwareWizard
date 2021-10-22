@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SoftwareWizard
+- 👀 I’m interested in Microsoft Technologies, Angular, NestJs, Jest, Cypress
+- 🌱 I’m currently learning NestJs
+- 💞️ I’m looking to collaborate on ... ???
+- 📫 How to reach me ... -> by email simon@software-wizard.tech
